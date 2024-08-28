@@ -8,6 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
+  base: '/CRM-VUE/',  // Cambia esto al nombre de tu repositorio
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
