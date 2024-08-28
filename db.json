@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "id": "8d89",
+      "nombre": "Daniel",
+      "apellido": "Montes",
+      "email": "admontes32@gmail.com",
+      "telefono": "333-333-3333",
+      "empresa": "SoftCarmel",
+      "puesto": "Tester",
+      "estado": true
+    },
+    {
+      "id": "75b2",
+      "nombre": "Paulina ",
+      "apellido": "Velador",
+      "email": "Pau@gmail.com",
+      "telefono": "333-333-3333",
+      "empresa": "Destiladora agave azul",
+      "puesto": "Tesorera",
+      "estado": 1
+    }
+  ]
+}
